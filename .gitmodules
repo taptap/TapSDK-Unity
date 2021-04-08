@@ -1,0 +1,3 @@
+[submodule "taplogin"]
+	path = taplogin
+	url = git@github.com:TapTap/TapLogin-Unity.git
