@@ -1,3 +1,15 @@
 [submodule "taplogin"]
 	path = taplogin
 	url = git@github.com:TapTap/TapLogin-Unity.git
+[submodule "tapbootstrap"]
+	path = tapbootstrap
+	url = git@github.com:TapTap/TapBootstrap-Unity.git
+[submodule "tapmoment"]
+	path = tapmoment
+	url = git@github.com:TapTap/TapMoment-Unity.git
+[submodule "tapdb"]
+	path = tapdb
+	url = git@github.com:TapTap/TapDB-Unity.git
+[submodule "tapcommon"]
+	path = tapcommon
+	url = git@github.com:TapTap/TapCommon-Unity.git
