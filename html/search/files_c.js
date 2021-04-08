@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['tapbootstrap_2ecs_311',['TapBootstrap.cs',['../_tap_bootstrap_8cs.html',1,'']]],
+  ['tapbootstrapconstants_2ecs_312',['TapBootstrapConstants.cs',['../_tap_bootstrap_constants_8cs.html',1,'']]],
+  ['tapbootstrapimpl_2ecs_313',['TapBootstrapImpl.cs',['../_tap_bootstrap_impl_8cs.html',1,'']]],
+  ['tapbootstrapsdk_2eassemblyinfo_2ecs_314',['TapBootstrapSDK.AssemblyInfo.cs',['../_debug_2netstandard2_80_2_tap_bootstrap_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_debug_2netstandard2_81_2_tap_bootstrap_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_i_o_s_2netstandard2_81_2_tap_bootstrap_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_i_o_s_2_tap_bootstrap_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_80_2_tap_bootstrap_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_81_2_tap_bootstrap_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)']]],
+  ['tapbridgewrapper_2ecs_315',['TapBridgeWrapper.cs',['../_tap_bridge_wrapper_8cs.html',1,'']]],
+  ['tapcommon_2ecs_316',['TapCommon.cs',['../_tap_common_8cs.html',1,'']]],
+  ['tapcommonimpl_2ecs_317',['TapCommonImpl.cs',['../_tap_common_impl_8cs.html',1,'']]],
+  ['tapcommonsdk_2eassemblyinfo_2ecs_318',['TapCommonSDK.AssemblyInfo.cs',['../_debug_2netstandard2_80_2_tap_common_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_i_o_s_2netstandard2_80_2_tap_common_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_80_2_tap_common_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)']]],
+  ['tapconfig_2ecs_319',['TapConfig.cs',['../_tap_config_8cs.html',1,'']]],
+  ['tapdb_2ecs_320',['TapDB.cs',['../_tap_d_b_8cs.html',1,'']]],
+  ['tapdbconstants_2ecs_321',['TapDBConstants.cs',['../_tap_d_b_constants_8cs.html',1,'']]],
+  ['tapdbimpl_2ecs_322',['TapDBImpl.cs',['../_tap_d_b_impl_8cs.html',1,'']]],
+  ['tapdblogintype_2ecs_323',['TapDBLoginType.cs',['../_tap_d_b_login_type_8cs.html',1,'']]],
+  ['tapdbsdk_2eassemblyinfo_2ecs_324',['TapDBSDK.AssemblyInfo.cs',['../_debug_2netstandard2_81_2_tap_d_b_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_80_2_tap_d_b_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_81_2_tap_d_b_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)']]],
+  ['taperror_2ecs_325',['TapError.cs',['../_tap_error_8cs.html',1,'']]],
+  ['taperrorcode_2ecs_326',['TapErrorCode.cs',['../_tap_error_code_8cs.html',1,'']]],
+  ['taplanguage_2ecs_327',['TapLanguage.cs',['../_tap_language_8cs.html',1,'']]],
+  ['taploginresultlistener_2ecs_328',['TapLoginResultListener.cs',['../_tap_login_result_listener_8cs.html',1,'']]],
+  ['tapmoment_2ecs_329',['TapMoment.cs',['../_tap_moment_8cs.html',1,'']]],
+  ['tapmomentimpl_2ecs_330',['TapMomentImpl.cs',['../_tap_moment_impl_8cs.html',1,'']]],
+  ['tapmomentsdk_2eassemblyinfo_2ecs_331',['TapMomentSDK.AssemblyInfo.cs',['../_debug_2netstandard2_81_2_tap_moment_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_80_2_tap_moment_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)'],['../_release_2netstandard2_81_2_tap_moment_s_d_k_8_assembly_info_8cs.html',1,'(Global Namespace)']]],
+  ['tapuser_2ecs_332',['TapUser.cs',['../_tap_user_8cs.html',1,'']]],
+  ['tapuserdetail_2ecs_333',['TapUserDetail.cs',['../_tap_user_detail_8cs.html',1,'']]],
+  ['tapuserstatuschangedlistener_2ecs_334',['TapUserStatusChangedListener.cs',['../_tap_user_status_changed_listener_8cs.html',1,'']]],
+  ['tapuuid_2ecs_335',['TapUUID.cs',['../_tap_u_u_i_d_8cs.html',1,'']]]
+];

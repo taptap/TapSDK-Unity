@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['deserialize_350',['Deserialize',['../class_tap_tap_1_1_common_1_1_json.html#ab4e8f70ce84d60d20d328f23dfb7bfd8',1,'TapTap::Common::Json']]],
+  ['deviceadd_351',['DeviceAdd',['../interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#a1047a1b032b850b8249ac745b0c4afc1',1,'TapTap.TapDB.ITapDB.DeviceAdd()'],['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b.html#a4534dc149bc8b4cc45aa44de064e0839',1,'TapTap.TapDB.TapDB.DeviceAdd()'],['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_impl.html#abd197b3ed9a5a5057179dd2811670e68',1,'TapTap.TapDB.TapDBImpl.DeviceAdd()']]],
+  ['deviceinitialize_352',['DeviceInitialize',['../interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#af3623bbf3b95700c22d86ed5bbd91fa0',1,'TapTap.TapDB.ITapDB.DeviceInitialize()'],['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b.html#aa99294eb6f4a51665252fcf963fb252c',1,'TapTap.TapDB.TapDB.DeviceInitialize()'],['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_impl.html#a4200fd1fa7db3cb07a7c5d8c12e56052',1,'TapTap.TapDB.TapDBImpl.DeviceInitialize()']]],
+  ['deviceupdate_353',['DeviceUpdate',['../interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#a3492162c172738df8eb70dbd3c6c5496',1,'TapTap.TapDB.ITapDB.DeviceUpdate()'],['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b.html#ab8ff5309ff1b902304de71741e1b2ccf',1,'TapTap.TapDB.TapDB.DeviceUpdate()'],['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_impl.html#a4fcd735739d219b60b67161e8323f01f',1,'TapTap.TapDB.TapDBImpl.DeviceUpdate()']]]
+];
