@@ -106,10 +106,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a50a1b3bffcf1dc12466805026da9ca51"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef8f10900ab3d869ce40f4cfbdf63aed"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_moment_1_1_i_tap_moment.html#aef8f10900ab3d869ce40f4cfbdf63aed">SetUseAutoRotate</a> (bool useAuto)</td></tr>
 <tr class="separator:aef8f10900ab3d869ce40f4cfbdf63aed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae34b5efe840d0c191d1adf40815b44e4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_moment_1_1_i_tap_moment.html#ae34b5efe840d0c191d1adf40815b44e4">OpenSceneEntry</a> (<a class="el" href="namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2">Orientation</a> orientation, string sceneId)</td></tr>
-<tr class="separator:ae34b5efe840d0c191d1adf40815b44e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c249b675434cb719055681a1454a3dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_moment_1_1_i_tap_moment.html#a3c249b675434cb719055681a1454a3dc">OpenUserCenter</a> (<a class="el" href="namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2">Orientation</a> orientation, string userId)</td></tr>
-<tr class="separator:a3c249b675434cb719055681a1454a3dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5febe1160bcdd4b3b034a5f0cadd00d2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_moment_1_1_i_tap_moment.html#a5febe1160bcdd4b3b034a5f0cadd00d2">DirectlyOpen</a> (<a class="el" href="namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2">Orientation</a> orientation, string page, Dictionary&lt; string, object &gt; extras)</td></tr>
+<tr class="separator:a5febe1160bcdd4b3b034a5f0cadd00d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a8164644148de49900c968350406d4222"></a>
@@ -158,6 +156,42 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="class_tap_tap_1_1_moment_1_1_moment_impl.html#a542ed5ccb45db9a9eb61c591bd93293a">TapTap.Moment.MomentImpl</a>.</p>
+
+</div>
+</div>
+<a id="a5febe1160bcdd4b3b034a5f0cadd00d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5febe1160bcdd4b3b034a5f0cadd00d2">&#9670;&nbsp;</a></span>DirectlyOpen()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TapTap.Moment.ITapMoment.DirectlyOpen </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2">Orientation</a>&#160;</td>
+          <td class="paramname"><em>orientation</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>page</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Dictionary&lt; string, object &gt;&#160;</td>
+          <td class="paramname"><em>extras</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="class_tap_tap_1_1_moment_1_1_moment_impl.html#a77d84362be33ed6a426067b87ea12338">TapTap.Moment.MomentImpl</a>.</p>
 
 </div>
 </div>
@@ -247,66 +281,6 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="class_tap_tap_1_1_moment_1_1_moment_impl.html#a02f98b29af47f4c0aafc6534c2a51917">TapTap.Moment.MomentImpl</a>.</p>
-
-</div>
-</div>
-<a id="ae34b5efe840d0c191d1adf40815b44e4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae34b5efe840d0c191d1adf40815b44e4">&#9670;&nbsp;</a></span>OpenSceneEntry()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TapTap.Moment.ITapMoment.OpenSceneEntry </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2">Orientation</a>&#160;</td>
-          <td class="paramname"><em>orientation</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>sceneId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="class_tap_tap_1_1_moment_1_1_moment_impl.html#acc0db8cef9bf3ff6ca634a527110ed74">TapTap.Moment.MomentImpl</a>.</p>
-
-</div>
-</div>
-<a id="a3c249b675434cb719055681a1454a3dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c249b675434cb719055681a1454a3dc">&#9670;&nbsp;</a></span>OpenUserCenter()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TapTap.Moment.ITapMoment.OpenUserCenter </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2">Orientation</a>&#160;</td>
-          <td class="paramname"><em>orientation</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>userId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="class_tap_tap_1_1_moment_1_1_moment_impl.html#ae1901d2597d4313f030ecda057b1f371">TapTap.Moment.MomentImpl</a>.</p>
 
 </div>
 </div>

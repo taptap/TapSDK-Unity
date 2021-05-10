@@ -1,17 +1,11 @@
 var searchData=
 [
-  ['callback_5fcode_5fclose_5fcancel_475',['CALLBACK_CODE_ClOSE_CANCEL',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a64a618c4f184a01fc8a2645307155b93',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fclose_5fconfirm_476',['CALLBACK_CODE_ClOSE_CONFIRM',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6ac4cd0de1ce0399f6040c9d266ae3dcaa',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fget_5fnotice_5ffail_477',['CALLBACK_CODE_GET_NOTICE_FAIL',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a943d8823013b1f813f6c78daaa184964',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fget_5fnotice_5fsuccess_478',['CALLBACK_CODE_GET_NOTICE_SUCCESS',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a18e437253a41827788e189f9efda852d',1,'TapTap::Moment']]],
-  ['callback_5fcode_5finit_5ffail_479',['CALLBACK_CODE_INIT_FAIL',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a10568527784afccd6c1dc58eded8cea3',1,'TapTap::Moment']]],
-  ['callback_5fcode_5finit_5fsuccess_480',['CALLBACK_CODE_INIT_SUCCESS',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a9e1dc2ecbd59884e077c6b266d3f5667',1,'TapTap::Moment']]],
-  ['callback_5fcode_5flogin_5fsuccess_481',['CALLBACK_CODE_LOGIN_SUCCESS',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6aeff1acf3f02a7d0ba971f29a317414a7',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fmoment_5fappear_482',['CALLBACK_CODE_MOMENT_APPEAR',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a1867ce95188a74cbb316d62bd65bf0ea',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fmoment_5fdisappear_483',['CALLBACK_CODE_MOMENT_DISAPPEAR',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a703c5a537ba612f9554c99dc62ed4b28',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fon_5fresume_484',['CALLBACK_CODE_ON_RESUME',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a16f3d51a87720af727b7957344229f03',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fon_5fstop_485',['CALLBACK_CODE_ON_STOP',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a4dd9c4aa2ce6174d5f0f0a3470ab2925',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fpublish_5fcancel_486',['CALLBACK_CODE_PUBLISH_CANCEL',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a654408689500b53bd9a0b429b172f3b3',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fpublish_5ffail_487',['CALLBACK_CODE_PUBLISH_FAIL',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a17b356544d7202f16ccfc69f703c88fe',1,'TapTap::Moment']]],
-  ['callback_5fcode_5fpublish_5fsuccess_488',['CALLBACK_CODE_PUBLISH_SUCCESS',['../namespace_tap_tap_1_1_moment.html#ac3c2b96d08b5887d2992f00430ca5cf6a4b3188b0dfa4301caf9dd2b8e5a23566',1,'TapTap::Moment']]]
+  ['en_533',['EN',['../namespace_tap_tap_1_1_bootstrap.html#a02078ce297de138b57175e710593009daaa85f1840e282d8a8304dbc2c0d7c9b2',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5fbind_5fcancel_534',['ERROR_CODE_BIND_CANCEL',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18ae29a93fdbb32458897190a0785ab2ce6',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5fbind_5ferror_535',['ERROR_CODE_BIND_ERROR',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18a09e12ed3205bbd1c88fd40464027418d',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5fbridge_5fexecute_536',['ERROR_CODE_BRIDGE_EXECUTE',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18a4eb4f000633684975d08db86cbe15b7d',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5flogout_5finvalid_5flogin_5fstate_537',['ERROR_CODE_LOGOUT_INVALID_LOGIN_STATE',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18a5e0185b961b94d9a7fb48239b951c297',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5flogout_5fkicked_538',['ERROR_CODE_LOGOUT_KICKED',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18a68d6656bb98944288235b0797031c762',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5fundefined_539',['ERROR_CODE_UNDEFINED',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18abdc6206e27aa9c93ada0b92342ba1b50',1,'TapTap::Bootstrap']]],
+  ['error_5fcode_5funinitialized_540',['ERROR_CODE_UNINITIALIZED',['../namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18aea1427e3d3b2f9734919d60b3c2cb4a2',1,'TapTap::Bootstrap']]]
 ];

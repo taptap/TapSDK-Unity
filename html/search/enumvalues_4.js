@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['orientation_5fdefault_498',['ORIENTATION_DEFAULT',['../namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2a753bc0fa2c8682458ced7660951e280a',1,'TapTap::Moment']]],
-  ['orientation_5flandscape_499',['ORIENTATION_LANDSCAPE',['../namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2a3cc281edc5fd34052c3d6300476ffa7c',1,'TapTap::Moment']]],
-  ['orientation_5fportrait_500',['ORIENTATION_PORTRAIT',['../namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2aad2b5c9f3a9ef88c35b155939178885c',1,'TapTap::Moment']]]
+  ['taptap_545',['TAPTAP',['../namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9a74a7d51b878087f9942f729eafda0df2',1,'TapTap::Bootstrap']]]
 ];

@@ -95,6 +95,8 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_tap_config.html">TapConfig</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_tap_d_b_config.html">TapDBConfig</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_tap_error.html">TapError</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">interface &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_bootstrap_1_1_i_tap_login_result_listener.html">ITapLoginResultListener</a></td></tr>
@@ -111,10 +113,12 @@ Classes</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
 Enumerations</h2></td></tr>
 <tr class="memitem:a0ededd9973f4db561668bb869274a3a9"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9">LoginType</a> { <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9a74a7d51b878087f9942f729eafda0df2">TAPTAP</a> = 0
-, <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9a4c462d6dd59d782386bb1cdad0060c70">APPLE</a> = 1
-, <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9a33e9232989576b5cfaa06654217d7a1a">GUEST</a> = 2
  }</td></tr>
 <tr class="separator:a0ededd9973f4db561668bb869274a3a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb1558288b0840907412f629dd28f4f6"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_tap_tap_1_1_bootstrap.html#adb1558288b0840907412f629dd28f4f6">RegionType</a> : int { <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#adb1558288b0840907412f629dd28f4f6a1c2903397d8833382673bab22aa8b937">CN</a> = 0
+, <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#adb1558288b0840907412f629dd28f4f6acf3882f1c43ab22bff0bd9d82d83251b">IO</a> = 1
+ }</td></tr>
+<tr class="separator:adb1558288b0840907412f629dd28f4f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa68a5da68ac54928e7a1c34b7869bc18"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18">TapErrorCode</a> { <br />
 &#160;&#160;<a class="el" href="namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18abdc6206e27aa9c93ada0b92342ba1b50">ERROR_CODE_UNDEFINED</a> = 80000
 , <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#aa68a5da68ac54928e7a1c34b7869bc18aea1427e3d3b2f9734919d60b3c2cb4a2">ERROR_CODE_UNINITIALIZED</a> = 80001
@@ -154,8 +158,32 @@ Enumerations</h2></td></tr>
 </div><div class="memdoc">
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0ededd9973f4db561668bb869274a3a9a74a7d51b878087f9942f729eafda0df2"></a>TAPTAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ededd9973f4db561668bb869274a3a9a4c462d6dd59d782386bb1cdad0060c70"></a>APPLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0ededd9973f4db561668bb869274a3a9a33e9232989576b5cfaa06654217d7a1a"></a>GUEST&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="adb1558288b0840907412f629dd28f4f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb1558288b0840907412f629dd28f4f6">&#9670;&nbsp;</a></span>RegionType</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_tap_tap_1_1_bootstrap.html#adb1558288b0840907412f629dd28f4f6">TapTap.Bootstrap.RegionType</a> : int</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adb1558288b0840907412f629dd28f4f6a1c2903397d8833382673bab22aa8b937"></a>CN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adb1558288b0840907412f629dd28f4f6acf3882f1c43ab22bff0bd9d82d83251b"></a>IO&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
