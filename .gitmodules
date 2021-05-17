@@ -19,3 +19,7 @@
 [submodule "taplicense"]
 	path = taplicense
 	url = git@github.com:TapTap/TapLicense-Unity.git
+
+[submodule "tapfriendsui"]
+	path = tapfriendsui
+	url = git@github.com:TapTap/TapFriendsUI-Unity.git
