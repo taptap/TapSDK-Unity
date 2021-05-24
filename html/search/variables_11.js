@@ -1,5 +1,24 @@
 var searchData=
 [
-  ['weixin_510',['WeiXin',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_login_type.html#a40b92d2df2a668321f40dd3779ea67e0',1,'TapTap::TapDB::TapDBLoginType']]],
-  ['wrapper_511',['wrapper',['../class_tap_tap_1_1_bootstrap_1_1_tap_login_wrapper.html#a1fa2d56c899b32f5c62648a13a813afa',1,'TapTap.Bootstrap.TapLoginWrapper.wrapper()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_user_status_wrapper.html#ac973d7a30b99fa78fe4ff60979ccf465',1,'TapTap.Bootstrap.TapUserStatusWrapper.wrapper()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_user_info_wrapper.html#a110ab3444906238aa373cf2bbf7c7cd4',1,'TapTap.Bootstrap.TapUserInfoWrapper.wrapper()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_user_detail_info_wrapper.html#aac3141fba64a15b5c939c72740a25711',1,'TapTap.Bootstrap.TapUserDetailInfoWrapper.wrapper()']]]
+  ['tap_5fbootstarp_5fclz_649',['TAP_BOOTSTARP_CLZ',['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap_constants.html#a87e5b0766d12715e1d6b2db146101aff',1,'TapTap::Bootstrap::TapBootstrapConstants']]],
+  ['tap_5fbootstarp_5fimpl_650',['TAP_BOOTSTARP_IMPL',['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap_constants.html#afd98ed8f8cefadacebae3f717743eac2',1,'TapTap::Bootstrap::TapBootstrapConstants']]],
+  ['tap_5fbootstarp_5fservice_651',['TAP_BOOTSTARP_SERVICE',['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap_constants.html#adbf2a7b9ac7b4263661c5169229c8be6',1,'TapTap::Bootstrap::TapBootstrapConstants']]],
+  ['tap_5ffriends_5fclz_652',['TAP_FRIENDS_CLZ',['../class_tap_tap_1_1_friends_1_1_tap_friends_constants.html#adf1f53e86bf1110bf17a0c6caa93ccc1',1,'TapTap::Friends::TapFriendsConstants']]],
+  ['tap_5ffriends_5fimpl_653',['TAP_FRIENDS_IMPL',['../class_tap_tap_1_1_friends_1_1_tap_friends_constants.html#af897c562f51229a52d7c12ddd64af85b',1,'TapTap::Friends::TapFriendsConstants']]],
+  ['tap_5ffriends_5fservice_654',['TAP_FRIENDS_SERVICE',['../class_tap_tap_1_1_friends_1_1_tap_friends_constants.html#a8c5d021870c4e53d1acd6f11edac3bb6',1,'TapTap::Friends::TapFriendsConstants']]],
+  ['tap_5flicense_5fservice_655',['TAP_LICENSE_SERVICE',['../class_tap_tap_1_1_license_1_1_tap_license_constants.html#a3901e0e72474455368ecf425271b8fac',1,'TapTap::License::TapLicenseConstants']]],
+  ['tapdb_5fclz_656',['TAPDB_CLZ',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_constants.html#a9d27ffec155e7bc8756e57947e106c3f',1,'TapTap::TapDB::TapDBConstants']]],
+  ['tapdb_5fimpl_657',['TAPDB_IMPL',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_constants.html#a5aea96a3dc449743ccaf9c68a2d76cdd',1,'TapTap::TapDB::TapDBConstants']]],
+  ['tapdb_5fservice_658',['TAPDB_SERVICE',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_constants.html#a3b52aefdd6427a1ce5e516929ec888dd',1,'TapTap::TapDB::TapDBConstants']]],
+  ['tapmomentpageshortcut_659',['TapMomentPageShortCut',['../class_tap_tap_1_1_moment_1_1_tap_moment_constants.html#ac4f0ee2ba6f0237e4e5bb7c8e3165203',1,'TapTap::Moment::TapMomentConstants']]],
+  ['tapmomentpageshortcutkey_660',['TapMomentPageShortCutKey',['../class_tap_tap_1_1_moment_1_1_tap_moment_constants.html#af29114871191efde922f9b56437d5d9b',1,'TapTap::Moment::TapMomentConstants']]],
+  ['tapmomentpageuser_661',['TapMomentPageUser',['../class_tap_tap_1_1_moment_1_1_tap_moment_constants.html#abd5f98a38ed7a208af6d5b99612eb647',1,'TapTap::Moment::TapMomentConstants']]],
+  ['tapmomentpageuserkey_662',['TapMomentPageUserKey',['../class_tap_tap_1_1_moment_1_1_tap_moment_constants.html#a754cd6479d128a5bc1f4ccd7dc1b3d22',1,'TapTap::Moment::TapMomentConstants']]],
+  ['taptap_663',['TapTap',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_login_type.html#a34c3a20ed3c4978461e9c5ea4c3e9b00',1,'TapTap::TapDB::TapDBLoginType']]],
+  ['taptapuserid_664',['taptapUserId',['../class_tap_tap_1_1_bootstrap_1_1_tap_user.html#aa473cb789f1310bb8ab84afa75ac3445',1,'TapTap.Bootstrap.TapUser.taptapUserId()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_user_detail.html#aabde23588da8c903504c553bf223279a',1,'TapTap.Bootstrap.TapUserDetail.taptapUserId()']]],
+  ['tds_5flicense_5fservice_5fclz_665',['TDS_LICENSE_SERVICE_CLZ',['../class_tap_tap_1_1_license_1_1_tap_license_constants.html#abda3304c2b13e91a5cf8ab826edb874a',1,'TapTap::License::TapLicenseConstants']]],
+  ['tds_5flicense_5fservice_5fimpl_666',['TDS_LICENSE_SERVICE_IMPL',['../class_tap_tap_1_1_license_1_1_tap_license_constants.html#a0092c18b9ff7edc29ad6db0f534a81ef',1,'TapTap::License::TapLicenseConstants']]],
+  ['tokentype_667',['tokenType',['../class_tap_tap_1_1_bootstrap_1_1_access_token.html#a261ef6fe12a2d177a63997d2f4d67b1c',1,'TapTap::Bootstrap::AccessToken']]],
+  ['tourist_668',['Tourist',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_login_type.html#a43bd7f3c9da0db4981c3aa7be0af3a69',1,'TapTap::TapDB::TapDBLoginType']]],
+  ['twitter_669',['Twitter',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_login_type.html#a272e038049b9862d9a931153245c5279',1,'TapTap::TapDB::TapDBLoginType']]]
 ];
