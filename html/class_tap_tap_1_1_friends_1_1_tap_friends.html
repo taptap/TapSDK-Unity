@@ -97,6 +97,10 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:aa320e5b3e183f5ac96c008382511a1b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a72afc526bebbab7bbd4301945b0511b9"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_friends_1_1_tap_friends.html#a72afc526bebbab7bbd4301945b0511b9">RegisterMessageListener</a> (<a class="el" href="interface_tap_tap_1_1_friends_1_1_i_tap_message_listener.html">ITapMessageListener</a> listener)</td></tr>
 <tr class="separator:a72afc526bebbab7bbd4301945b0511b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e7c2be0dd0a2ad7f081082b38f688ae"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_friends_1_1_tap_friends.html#a6e7c2be0dd0a2ad7f081082b38f688ae">SetRichPresence</a> (string key, string value, Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt; action)</td></tr>
+<tr class="separator:a6e7c2be0dd0a2ad7f081082b38f688ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfe62be5fec4a7f173ee0e90fe33d3cf"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_friends_1_1_tap_friends.html#acfe62be5fec4a7f173ee0e90fe33d3cf">ClearRichPresence</a> (string key, Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt; action)</td></tr>
+<tr class="separator:acfe62be5fec4a7f173ee0e90fe33d3cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="aa2c43ea90e9a402ca5096df14d0a6627"></a>
@@ -149,6 +153,42 @@ Static Public Member Functions</h2></td></tr>
           <td>(</td>
           <td class="paramtype">string&#160;</td>
           <td class="paramname"><em>userId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt;&#160;</td>
+          <td class="paramname"><em>action</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acfe62be5fec4a7f173ee0e90fe33d3cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acfe62be5fec4a7f173ee0e90fe33d3cf">&#9670;&nbsp;</a></span>ClearRichPresence()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void TapTap.Friends.TapFriends.ClearRichPresence </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>key</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -442,6 +482,48 @@ Static Public Member Functions</h2></td></tr>
           <td class="paramtype">Action&lt; bool, <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt;&#160;</td>
           <td class="paramname"><em>action</em></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6e7c2be0dd0a2ad7f081082b38f688ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e7c2be0dd0a2ad7f081082b38f688ae">&#9670;&nbsp;</a></span>SetRichPresence()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void TapTap.Friends.TapFriends.SetRichPresence </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>key</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>value</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt;&#160;</td>
+          <td class="paramname"><em>action</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>

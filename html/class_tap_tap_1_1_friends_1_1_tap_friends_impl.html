@@ -107,6 +107,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aa5299409092b8734d6d26a5aa6fc4883"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a494419b878b4eb96e58415964e66b6fb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_friends_1_1_tap_friends_impl.html#a494419b878b4eb96e58415964e66b6fb">RegisterMessageListener</a> (<a class="el" href="interface_tap_tap_1_1_friends_1_1_i_tap_message_listener.html">ITapMessageListener</a> listener)</td></tr>
 <tr class="separator:a494419b878b4eb96e58415964e66b6fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6b6646856d63415533ac367ab850926"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_friends_1_1_tap_friends_impl.html#ab6b6646856d63415533ac367ab850926">SetRichPresence</a> (string key, string value, Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt; action)</td></tr>
+<tr class="separator:ab6b6646856d63415533ac367ab850926"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d7ead0d917a0ec42ea1d0651501625a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_friends_1_1_tap_friends_impl.html#a4d7ead0d917a0ec42ea1d0651501625a">ClearRichPresence</a> (string key, Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt; action)</td></tr>
+<tr class="separator:a4d7ead0d917a0ec42ea1d0651501625a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -187,6 +191,44 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="interface_tap_tap_1_1_friends_1_1_i_tap_friends.html#a6e9f1483087bed6ecb9c4c81b957fe9d">TapTap.Friends.ITapFriends</a>.</p>
+
+</div>
+</div>
+<a id="a4d7ead0d917a0ec42ea1d0651501625a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d7ead0d917a0ec42ea1d0651501625a">&#9670;&nbsp;</a></span>ClearRichPresence()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TapTap.Friends.TapFriendsImpl.ClearRichPresence </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>key</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt;&#160;</td>
+          <td class="paramname"><em>action</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interface_tap_tap_1_1_friends_1_1_i_tap_friends.html#ad8c0f85f066a570271312f9919db8fa6">TapTap.Friends.ITapFriends</a>.</p>
 
 </div>
 </div>
@@ -510,6 +552,50 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="interface_tap_tap_1_1_friends_1_1_i_tap_friends.html#a4b45a06a9738306a441cc0a7676e1cd7">TapTap.Friends.ITapFriends</a>.</p>
+
+</div>
+</div>
+<a id="ab6b6646856d63415533ac367ab850926"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6b6646856d63415533ac367ab850926">&#9670;&nbsp;</a></span>SetRichPresence()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TapTap.Friends.TapFriendsImpl.SetRichPresence </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>key</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>value</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Action&lt; <a class="el" href="class_tap_tap_1_1_friends_1_1_tap_error.html">TapError</a> &gt;&#160;</td>
+          <td class="paramname"><em>action</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="interface_tap_tap_1_1_friends_1_1_i_tap_friends.html#a51bf733540e22d0a9c65c1d45ed04130">TapTap.Friends.ITapFriends</a>.</p>
 
 </div>
 </div>
