@@ -13,13 +13,7 @@
 [submodule "tapcommon"]
 	path = tapcommon
 	url = git@github.com:TapTap/TapCommon-Unity.git
-[submodule "tapfriends"]
-	path = tapfriends
-	url = git@github.com:TapTap/TapFriends-Unity.git
 [submodule "taplicense"]
 	path = taplicense
 	url = git@github.com:TapTap/TapLicense-Unity.git
 
-[submodule "tapfriendsui"]
-	path = tapfriendsui
-	url = git@github.com:TapTap/TapFriendsUI-Unity.git
