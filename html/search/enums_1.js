@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['logintype_713',['LoginType',['../namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9',1,'TapTap::Bootstrap']]]
+  ['orientation_712',['Orientation',['../namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2',1,'TapTap::Moment']]]
 ];

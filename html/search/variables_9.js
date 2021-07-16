@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['logincallbackcode_666',['loginCallbackCode',['../class_tap_tap_1_1_bootstrap_1_1_tap_login_wrapper.html#a0b0cdb3839927136446886941a2fcb07',1,'TapTap::Bootstrap::TapLoginWrapper']]]
+  ['name_676',['name',['../class_tap_tap_1_1_friends_1_1_tap_user_relation_ship.html#acf133921ad6c7fd8ddc5e2e77cfa73d9',1,'TapTap::Friends::TapUserRelationShip']]]
 ];

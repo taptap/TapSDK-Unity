@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['orientation_2ecs_460',['Orientation.cs',['../_orientation_8cs.html',1,'']]]
+  ['regiontype_2ecs_458',['RegionType.cs',['../_region_type_8cs.html',1,'']]],
+  ['result_2ecs_459',['Result.cs',['../_result_8cs.html',1,'']]]
 ];

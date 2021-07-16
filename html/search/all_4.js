@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['dbconfig_64',['DBConfig',['../class_tap_tap_1_1_bootstrap_1_1_tap_config.html#a23e430b7afd8d1efab3ce549052a3d37',1,'TapTap::Bootstrap::TapConfig']]],
   ['deletefriend_65',['DeleteFriend',['../interface_tap_tap_1_1_friends_1_1_i_tap_friends.html#a803e1b319107d6cfdc84d9bac62a4cbb',1,'TapTap.Friends.ITapFriends.DeleteFriend()'],['../class_tap_tap_1_1_friends_1_1_tap_friends.html#a148a5a2a483e3bd27ed7cffa7c13cbd2',1,'TapTap.Friends.TapFriends.DeleteFriend()'],['../class_tap_tap_1_1_friends_1_1_tap_friends_impl.html#a0b9ec5573dd98463658da064abb91148',1,'TapTap.Friends.TapFriendsImpl.DeleteFriend()']]],
   ['deletefriendcode_66',['deleteFriendCode',['../class_tap_tap_1_1_friends_1_1_tap_delete_friend_wrapper.html#ab60b7ed547c6e8181c6a6d5dbccc063a',1,'TapTap::Friends::TapDeleteFriendWrapper']]],
   ['deserialize_67',['Deserialize',['../class_tap_tap_1_1_common_1_1_json.html#ab4e8f70ce84d60d20d328f23dfb7bfd8',1,'TapTap::Common::Json']]],

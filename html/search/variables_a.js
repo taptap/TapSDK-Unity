@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['macalgorithm_667',['macAlgorithm',['../class_tap_tap_1_1_bootstrap_1_1_access_token.html#a6a3863e0ce457fe2e6297fbb28fd7a93',1,'TapTap::Bootstrap::AccessToken']]],
-  ['mackey_668',['macKey',['../class_tap_tap_1_1_bootstrap_1_1_access_token.html#a9c2f4f403189c0283153f69d125707f7',1,'TapTap::Bootstrap::AccessToken']]],
-  ['message_669',['message',['../class_tap_tap_1_1_moment_1_1_moment_callback_bean.html#a15d55953335ce2a7945aa4f40797e574',1,'TapTap.Moment.MomentCallbackBean.message()'],['../class_tap_tap_1_1_common_1_1_result.html#a9d22416784bc6c7f48d6a341d6b1b34a',1,'TapTap.Common.Result.message()']]],
-  ['method_670',['method',['../class_tap_tap_1_1_common_1_1_command.html#a774faf153bc2ce0791593f17ef58ff4d',1,'TapTap::Common::Command']]],
-  ['mutualattention_671',['mutualAttention',['../class_tap_tap_1_1_friends_1_1_tap_user_relation_ship.html#ac63eb2ddc0e7ca91db184b4a23ecbdc9',1,'TapTap::Friends::TapUserRelationShip']]]
+  ['oncetime_677',['onceTime',['../class_tap_tap_1_1_common_1_1_command.html#a2231baa624056f10fb4561e9c9764638',1,'TapTap.Common.Command.onceTime()'],['../class_tap_tap_1_1_common_1_1_result.html#afe09321ebd1666e826dfc9d6cbdf2fe5',1,'TapTap.Common.Result.onceTime()']]],
+  ['online_678',['online',['../class_tap_tap_1_1_friends_1_1_tap_user_relation_ship.html#a224885af1a4ddcb82ef200762286e0eb',1,'TapTap::Friends::TapUserRelationShip']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['orientation_714',['Orientation',['../namespace_tap_tap_1_1_moment.html#a13e4e563480a91892d630f50ee0fcbd2',1,'TapTap::Moment']]]
+  ['regiontype_713',['RegionType',['../namespace_tap_tap_1_1_bootstrap.html#adb1558288b0840907412f629dd28f4f6',1,'TapTap::Bootstrap']]]
 ];

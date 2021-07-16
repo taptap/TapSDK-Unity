@@ -1,8 +1,12 @@
 var searchData=
 [
-  ['login_148',['Login',['../interface_tap_tap_1_1_bootstrap_1_1_i_tap_bootstrap.html#a7f25363d9ebbef41c7d33d695dd1b910',1,'TapTap.Bootstrap.ITapBootstrap.Login(LoginType loginType, string[] permissions)'],['../interface_tap_tap_1_1_bootstrap_1_1_i_tap_bootstrap.html#ac72f7a76ae24f2b38eb3f7717d6e77e0',1,'TapTap.Bootstrap.ITapBootstrap.Login(string[] permissions)'],['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap.html#a2108a129cb4eb838cd8b5e217161e174',1,'TapTap.Bootstrap.TapBootstrap.Login()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap_impl.html#a4c1290bb3568d7bb256b33bd7deac7fd',1,'TapTap.Bootstrap.TapBootstrapImpl.Login(LoginType loginType, string[] permissions)'],['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap_impl.html#a4dee8e9620b9ef2a37e3f95b74ab127e',1,'TapTap.Bootstrap.TapBootstrapImpl.Login(string[] permissions)']]],
-  ['logincallbackcode_149',['loginCallbackCode',['../class_tap_tap_1_1_bootstrap_1_1_tap_login_wrapper.html#a0b0cdb3839927136446886941a2fcb07',1,'TapTap::Bootstrap::TapLoginWrapper']]],
-  ['logintype_150',['LoginType',['../namespace_tap_tap_1_1_bootstrap.html#a0ededd9973f4db561668bb869274a3a9',1,'TapTap::Bootstrap']]],
-  ['logintype_2ecs_151',['LoginType.cs',['../_login_type_8cs.html',1,'']]],
-  ['logout_152',['Logout',['../interface_tap_tap_1_1_bootstrap_1_1_i_tap_bootstrap.html#a65d4bbc9a2bafeed115c942a5a4e035f',1,'TapTap.Bootstrap.ITapBootstrap.Logout()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap.html#a08c5e56e77a6b7cdf48efdd29be9dbab',1,'TapTap.Bootstrap.TapBootstrap.Logout()'],['../class_tap_tap_1_1_bootstrap_1_1_tap_bootstrap_impl.html#aca28a74d9e06f4b65dde4fe518b8e612',1,'TapTap.Bootstrap.TapBootstrapImpl.Logout()']]]
+  ['login_146',['Login',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a61df21234d8077c847af044ed3c24e2d',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginanonymously_147',['LoginAnonymously',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a5381d7865113b3f26e362eb62d84cd20',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginbyemail_148',['LoginByEmail',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a5118574e3d347718a8a180eca3723e5c',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginbymobilephonenumber_149',['LoginByMobilePhoneNumber',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#ae7c68622c82e69ce290018cdb05c3a0f',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginbysmscode_150',['LoginBySMSCode',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#aa83f738da07c5a37480a5d37f99c10a7',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginwithauthdata_151',['LoginWithAuthData',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a97b6cac684d32ff2401144ad9a6521c3',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginwithauthdataandunionid_152',['LoginWithAuthDataAndUnionId',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a6ad0ebe6ccbd1dafd252395364b6c421',1,'TapTap::Bootstrap::TDSUser']]],
+  ['loginwithtaptap_153',['LoginWithTapTap',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a916036e63d5965f747e0191feb6baf09',1,'TapTap::Bootstrap::TDSUser']]],
+  ['logout_154',['Logout',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a0142c277085a5759fe94f814ff94b4b7',1,'TapTap::Bootstrap::TDSUser']]]
 ];

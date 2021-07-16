@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['result_393',['Result',['../class_tap_tap_1_1_common_1_1_result.html',1,'TapTap::Common']]]
+  ['safedictionary_392',['SafeDictionary',['../class_tap_tap_1_1_common_1_1_safe_dictionary.html',1,'TapTap::Common']]]
 ];

@@ -98,6 +98,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a71bef3ac681f4dd326630ed7d008eb98"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2a88aafe454c9a58e09845ec4c738dae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#a2a88aafe454c9a58e09845ec4c738dae">OnCharge</a> (string orderId, string product, long amount, string currencyType, string payment)</td></tr>
 <tr class="separator:a2a88aafe454c9a58e09845ec4c738dae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31bb78b2b64e56a46d81940d80cf0224"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#a31bb78b2b64e56a46d81940d80cf0224">OnCharge</a> (string orderId, string product, long amount, string currencyType, string payment, string properties)</td></tr>
+<tr class="separator:a31bb78b2b64e56a46d81940d80cf0224"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a08c1053e333b054b5c04854ce5932f40"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#a08c1053e333b054b5c04854ce5932f40">OnEvent</a> (string eventCode, string properties)</td></tr>
 <tr class="separator:a08c1053e333b054b5c04854ce5932f40"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab1d0461a57d4559dc3668e2b888f8c2f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#ab1d0461a57d4559dc3668e2b888f8c2f">TrackEvent</a> (string eventName, string properties)</td></tr>
@@ -130,6 +132,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac095219c5e1e2cd41df1b0e281da1d9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a936d6f3cab2353492ac2c08d92d32eaa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#a936d6f3cab2353492ac2c08d92d32eaa">CloseFetchTapTapDeviceId</a> ()</td></tr>
 <tr class="separator:a936d6f3cab2353492ac2c08d92d32eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9e1fc4afc30f9ddd0498283e418feab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_tap_tap_1_1_tap_d_b_1_1_i_tap_d_b.html#ae9e1fc4afc30f9ddd0498283e418feab">GetTapTapDid</a> (Action&lt; string &gt; action)</td></tr>
+<tr class="separator:ae9e1fc4afc30f9ddd0498283e418feab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="a6e2137f6626446f075eece39c7bdca8e"></a>
@@ -289,6 +293,26 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="ae9e1fc4afc30f9ddd0498283e418feab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9e1fc4afc30f9ddd0498283e418feab">&#9670;&nbsp;</a></span>GetTapTapDid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TapTap.TapDB.ITapDB.GetTapTapDid </td>
+          <td>(</td>
+          <td class="paramtype">Action&lt; string &gt;&#160;</td>
+          <td class="paramname"><em>action</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_impl.html#a6f78af7b6ac142f8f2208a3b37682052">TapTap.TapDB.TapDBImpl</a>.</p>
+
+</div>
+</div>
 <a id="acf0792ee19662ec104fabbae0bf145d0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acf0792ee19662ec104fabbae0bf145d0">&#9670;&nbsp;</a></span>Init()</h2>
 
@@ -332,7 +356,7 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <a id="a2a88aafe454c9a58e09845ec4c738dae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a88aafe454c9a58e09845ec4c738dae">&#9670;&nbsp;</a></span>OnCharge()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a88aafe454c9a58e09845ec4c738dae">&#9670;&nbsp;</a></span>OnCharge() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -376,6 +400,60 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implemented in <a class="el" href="class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_impl.html#a23a5059c991d5238256ffe4a70f4243a">TapTap.TapDB.TapDBImpl</a>.</p>
+
+</div>
+</div>
+<a id="a31bb78b2b64e56a46d81940d80cf0224"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31bb78b2b64e56a46d81940d80cf0224">&#9670;&nbsp;</a></span>OnCharge() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TapTap.TapDB.ITapDB.OnCharge </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>orderId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>product</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">long&#160;</td>
+          <td class="paramname"><em>amount</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>currencyType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>payment</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>properties</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_impl.html#a5f4970440425da42abdac3f6eb3c0466">TapTap.TapDB.TapDBImpl</a>.</p>
 
 </div>
 </div>
