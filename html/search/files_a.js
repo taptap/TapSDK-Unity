@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['regiontype_2ecs_539',['RegionType.cs',['../_region_type_8cs.html',1,'']]],
-  ['result_2ecs_540',['Result.cs',['../_result_8cs.html',1,'']]]
+  ['safedictionary_2ecs_521',['SafeDictionary.cs',['../_safe_dictionary_8cs.html',1,'']]]
 ];

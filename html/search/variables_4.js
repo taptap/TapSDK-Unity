@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['enable_776',['Enable',['../class_tap_tap_1_1_bootstrap_1_1_tap_d_b_config.html#abd7edb0a8a26a9d08e54ddcc499ee3ba',1,'TapTap::Bootstrap::TapDBConfig']]],
-  ['errordescription_777',['errorDescription',['../class_tap_tap_1_1_common_1_1_tap_error.html#abd3f81163a78f8e1bad8097d2a479011',1,'TapTap.Common.TapError.errorDescription()'],['../class_tap_tap_1_1_friends_1_1_tap_error.html#a784eaaf189d050202770b4e7c6fb2679',1,'TapTap.Friends.TapError.errorDescription()']]]
+  ['facebook_744',['Facebook',['../class_tap_tap_1_1_tap_d_b_1_1_tap_d_b_login_type.html#a722364c3ce07d4c4563c8631d1f5cfec',1,'TapTap::TapDB::TapDBLoginType']]],
+  ['fullreached_745',['fullReached',['../class_tap_tap_1_1_achievement_1_1_tap_achievement_bean.html#a24003795affc2a587a132f402c4bc86c',1,'TapTap::Achievement::TapAchievementBean']]]
 ];

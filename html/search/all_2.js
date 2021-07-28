@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['becomewithsessiontoken_18',['BecomeWithSessionToken',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a7931f252a11822f8e4eadf6c019dd277',1,'TapTap::Bootstrap::TDSUser']]],
-  ['blockfriendcode_19',['blockFriendCode',['../class_tap_tap_1_1_friends_1_1_tap_block_friend_wrapper.html#afa188661557db5d6b0bd316797eb1c2a',1,'TapTap::Friends::TapBlockFriendWrapper']]],
-  ['blockuser_20',['BlockUser',['../interface_tap_tap_1_1_friends_1_1_i_tap_friends.html#a6e9f1483087bed6ecb9c4c81b957fe9d',1,'TapTap.Friends.ITapFriends.BlockUser()'],['../class_tap_tap_1_1_friends_1_1_tap_friends.html#a81b7af3e9a46a2be95419abc10213127',1,'TapTap.Friends.TapFriends.BlockUser()'],['../class_tap_tap_1_1_friends_1_1_tap_friends_impl.html#a50a79904aa0c215f18cd7d8727f4f093',1,'TapTap.Friends.TapFriendsImpl.BlockUser()']]],
+  ['becomewithsessiontoken_20',['BecomeWithSessionToken',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a7931f252a11822f8e4eadf6c019dd277',1,'TapTap::Bootstrap::TDSUser']]],
   ['bridge_2ecs_21',['Bridge.cs',['../_bridge_8cs.html',1,'']]],
   ['bridgeandroid_22',['BridgeAndroid',['../class_tap_tap_1_1_common_1_1_bridge_android.html',1,'TapTap::Common']]],
   ['bridgeandroid_2ecs_23',['BridgeAndroid.cs',['../_bridge_android_8cs.html',1,'']]],

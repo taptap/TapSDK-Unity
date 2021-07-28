@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['dbconfig_774',['DBConfig',['../class_tap_tap_1_1_bootstrap_1_1_tap_config.html#a23e430b7afd8d1efab3ce549052a3d37',1,'TapTap::Bootstrap::TapConfig']]],
-  ['deletefriendcode_775',['deleteFriendCode',['../class_tap_tap_1_1_friends_1_1_tap_delete_friend_wrapper.html#ab60b7ed547c6e8181c6a6d5dbccc063a',1,'TapTap::Friends::TapDeleteFriendWrapper']]]
+  ['enable_741',['Enable',['../class_tap_tap_1_1_bootstrap_1_1_tap_d_b_config.html#abd7edb0a8a26a9d08e54ddcc499ee3ba',1,'TapTap::Bootstrap::TapDBConfig']]],
+  ['error_742',['error',['../class_tap_tap_1_1_achievement_1_1_achievement_wrapper_bean.html#aa7f7bff3c6a8f0cbebd8025eaa378ede',1,'TapTap.Achievement.AchievementWrapperBean.error()'],['../class_tap_tap_1_1_achievement_1_1_achievement_list_wrapper_bean.html#aa0e2dc4ed0f14d249984902350ce0156',1,'TapTap.Achievement.AchievementListWrapperBean.error()']]],
+  ['errordescription_743',['errorDescription',['../class_tap_tap_1_1_common_1_1_tap_error.html#abd3f81163a78f8e1bad8097d2a479011',1,'TapTap::Common::TapError']]]
 ];

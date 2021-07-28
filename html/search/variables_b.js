@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['name_793',['name',['../class_tap_tap_1_1_friends_1_1_tap_user_relation_ship.html#acf133921ad6c7fd8ddc5e2e77cfa73d9',1,'TapTap.Friends.TapUserRelationShip.name()'],['../class_tap_tap_1_1_login_1_1_profile.html#a20fbbdf96ab7f3d473ca8052f2ecfdbf',1,'TapTap.Login.Profile.name()']]]
+  ['oncetime_761',['onceTime',['../class_tap_tap_1_1_common_1_1_command.html#a2231baa624056f10fb4561e9c9764638',1,'TapTap.Common.Command.onceTime()'],['../class_tap_tap_1_1_common_1_1_result.html#afe09321ebd1666e826dfc9d6cbdf2fe5',1,'TapTap.Common.Result.onceTime()']]],
+  ['openid_762',['openid',['../class_tap_tap_1_1_login_1_1_profile.html#a57087370690d1675d7153b748a1ca8b6',1,'TapTap::Login::Profile']]]
 ];

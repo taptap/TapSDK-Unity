@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['unblockfriendcode_828',['unblockFriendCode',['../class_tap_tap_1_1_friends_1_1_tap_un_block_friend_wrapper.html#aee0fb405c95ab3dcf7c130d2d7b460f0',1,'TapTap::Friends::TapUnBlockFriendWrapper']]],
-  ['unionid_829',['unionid',['../class_tap_tap_1_1_login_1_1_profile.html#a093d8be3d25ba507eef0f1165bcad3d9',1,'TapTap::Login::Profile']]],
-  ['userid_830',['userId',['../class_tap_tap_1_1_friends_1_1_tap_user_relation_ship.html#a01a7783157df36c01b280de1c69b3ac8',1,'TapTap::Friends::TapUserRelationShip']]]
+  ['versionkey_803',['VersionKey',['../class_tap_tap_1_1_common_1_1_constants.html#ad5899f588515031c4226a94c7128f056',1,'TapTap::Common::Constants']]],
+  ['visible_804',['visible',['../class_tap_tap_1_1_achievement_1_1_tap_achievement_bean.html#aa307dbae83a191c960a5f92125fba217',1,'TapTap::Achievement::TapAchievementBean']]],
+  ['visiblefalse_805',['VisibleFalse',['../class_tap_tap_1_1_achievement_1_1_tap_achievement_bean.html#ad9c265b34fdb14a18fc9084cb00a36f6',1,'TapTap::Achievement::TapAchievementBean']]],
+  ['visibletrue_806',['VisibleTrue',['../class_tap_tap_1_1_achievement_1_1_tap_achievement_bean.html#a6abbb39bd6fbcfb3dd3658f8872b4cba',1,'TapTap::Achievement::TapAchievementBean']]]
 ];
