@@ -66,6 +66,7 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#properties">Properties</a> &#124;
@@ -81,6 +82,11 @@ Inheritance diagram for TapTap.Bootstrap.TDSUser:</div>
   <img src="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.png" alt=""/>
  </div></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user_1_1_friendship_notification.html">FriendshipNotification</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a5cc254503d7ee29353afe361c0518cb6"><td class="memItemLeft" align="right" valign="top">new Task&lt; <a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html">TDSUser</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a5cc254503d7ee29353afe361c0518cb6">SignUp</a> ()</td></tr>
@@ -90,6 +96,22 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1983ecbc53baea93ce50457a20e7a1af"><td class="memItemLeft" align="right" valign="top">new async Task&lt; <a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html">TDSUser</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a1983ecbc53baea93ce50457a20e7a1af">Save</a> (bool fetchWhenSave=false, LCQuery&lt; LCObject &gt; query=null)</td></tr>
 <tr class="memdesc:a1983ecbc53baea93ce50457a20e7a1af"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save this user to the cloud.  <a href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a1983ecbc53baea93ce50457a20e7a1af">More...</a><br /></td></tr>
 <tr class="separator:a1983ecbc53baea93ce50457a20e7a1af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1ced9310248b7db35f1859886561b56"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#ab1ced9310248b7db35f1859886561b56">ApplyFriendship</a> (<a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html">TDSUser</a> user, Dictionary&lt; string, object &gt; attributes=null)</td></tr>
+<tr class="separator:ab1ced9310248b7db35f1859886561b56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac08182a27cc8734f933667e59b238da4"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#ac08182a27cc8734f933667e59b238da4">AcceptFriendshipRequest</a> (LCFriendshipRequest request, Dictionary&lt; string, object &gt; attributes=null)</td></tr>
+<tr class="separator:ac08182a27cc8734f933667e59b238da4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2de1ef2013b4eecb01e8b7ccce18d09f"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a2de1ef2013b4eecb01e8b7ccce18d09f">DeclineFriendshipRequest</a> (LCFriendshipRequest request)</td></tr>
+<tr class="separator:a2de1ef2013b4eecb01e8b7ccce18d09f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a519fe229f62a916f14903046e7ffa883"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a519fe229f62a916f14903046e7ffa883">DeleteFriendshipRequest</a> (LCFriendshipRequest request)</td></tr>
+<tr class="separator:a519fe229f62a916f14903046e7ffa883"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b5e830adc2e56de67c0dafca0846ffc"><td class="memItemLeft" align="right" valign="top">LCQuery&lt; LCFriendshipRequest &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a7b5e830adc2e56de67c0dafca0846ffc">GetFriendshipRequestQuery</a> (int status, bool includeTargetUser, bool reachToCurrentUser)</td></tr>
+<tr class="separator:a7b5e830adc2e56de67c0dafca0846ffc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbb32b4749e408b2de9f482a3359c0ca"><td class="memItemLeft" align="right" valign="top">LCQuery&lt; LCObject &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#acbb32b4749e408b2de9f482a3359c0ca">GetFriendshipQuery</a> ()</td></tr>
+<tr class="separator:acbb32b4749e408b2de9f482a3359c0ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec321f35f95d73ff86da1f4c970b46d7"><td class="memItemLeft" align="right" valign="top">async Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#aec321f35f95d73ff86da1f4c970b46d7">RegisterFriendshipNotification</a> (<a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user_1_1_friendship_notification.html">FriendshipNotification</a> notification)</td></tr>
+<tr class="separator:aec321f35f95d73ff86da1f4c970b46d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e4274648f33233b609e886063ce1e36"><td class="memItemLeft" align="right" valign="top">async Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a2e4274648f33233b609e886063ce1e36">UnregisterFriendshipNotification</a> ()</td></tr>
+<tr class="separator:a2e4274648f33233b609e886063ce1e36"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -162,6 +184,78 @@ Properties</h2></td></tr>
 <tr class="separator:a063f415a077abbff6f47ff2c6fb6ce32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac08182a27cc8734f933667e59b238da4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac08182a27cc8734f933667e59b238da4">&#9670;&nbsp;</a></span>AcceptFriendshipRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task TapTap.Bootstrap.TDSUser.AcceptFriendshipRequest </td>
+          <td>(</td>
+          <td class="paramtype">LCFriendshipRequest&#160;</td>
+          <td class="paramname"><em>request</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Dictionary&lt; string, object &gt;&#160;</td>
+          <td class="paramname"><em>attributes</em> = <code>null</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab1ced9310248b7db35f1859886561b56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1ced9310248b7db35f1859886561b56">&#9670;&nbsp;</a></span>ApplyFriendship()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task TapTap.Bootstrap.TDSUser.ApplyFriendship </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html">TDSUser</a>&#160;</td>
+          <td class="paramname"><em>user</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Dictionary&lt; string, object &gt;&#160;</td>
+          <td class="paramname"><em>attributes</em> = <code>null</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a7931f252a11822f8e4eadf6c019dd277"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7931f252a11822f8e4eadf6c019dd277">&#9670;&nbsp;</a></span>BecomeWithSessionToken()</h2>
 
@@ -197,6 +291,58 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a id="a2de1ef2013b4eecb01e8b7ccce18d09f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2de1ef2013b4eecb01e8b7ccce18d09f">&#9670;&nbsp;</a></span>DeclineFriendshipRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task TapTap.Bootstrap.TDSUser.DeclineFriendshipRequest </td>
+          <td>(</td>
+          <td class="paramtype">LCFriendshipRequest&#160;</td>
+          <td class="paramname"><em>request</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a519fe229f62a916f14903046e7ffa883"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a519fe229f62a916f14903046e7ffa883">&#9670;&nbsp;</a></span>DeleteFriendshipRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task TapTap.Bootstrap.TDSUser.DeleteFriendshipRequest </td>
+          <td>(</td>
+          <td class="paramtype">LCFriendshipRequest&#160;</td>
+          <td class="paramname"><em>request</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a28fa90bb60fa57597711005a8b1bc490"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a28fa90bb60fa57597711005a8b1bc490">&#9670;&nbsp;</a></span>GetCurrent()</h2>
 
@@ -222,6 +368,73 @@ Properties</h2></td></tr>
 
 <p>Gets the currently logged in <a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html">TDSUser</a> with a valid session, from memory or disk if necessary. </p>
 <dl class="section return"><dt>Returns</dt><dd></dd></dl>
+
+</div>
+</div>
+<a id="acbb32b4749e408b2de9f482a3359c0ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acbb32b4749e408b2de9f482a3359c0ca">&#9670;&nbsp;</a></span>GetFriendshipQuery()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">LCQuery&lt;LCObject&gt; TapTap.Bootstrap.TDSUser.GetFriendshipQuery </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7b5e830adc2e56de67c0dafca0846ffc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b5e830adc2e56de67c0dafca0846ffc">&#9670;&nbsp;</a></span>GetFriendshipRequestQuery()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">LCQuery&lt;LCFriendshipRequest&gt; TapTap.Bootstrap.TDSUser.GetFriendshipRequestQuery </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>status</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>includeTargetUser</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>reachToCurrentUser</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -593,6 +806,32 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a id="aec321f35f95d73ff86da1f4c970b46d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec321f35f95d73ff86da1f4c970b46d7">&#9670;&nbsp;</a></span>RegisterFriendshipNotification()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task TapTap.Bootstrap.TDSUser.RegisterFriendshipNotification </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_tap_tap_1_1_bootstrap_1_1_t_d_s_user_1_1_friendship_notification.html">FriendshipNotification</a>&#160;</td>
+          <td class="paramname"><em>notification</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ae2ad70bcdd940e9212a2e4f929d3586e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae2ad70bcdd940e9212a2e4f929d3586e">&#9670;&nbsp;</a></span>RequestEmailVerify()</h2>
 
@@ -914,6 +1153,31 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a id="a2e4274648f33233b609e886063ce1e36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e4274648f33233b609e886063ce1e36">&#9670;&nbsp;</a></span>UnregisterFriendshipNotification()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task TapTap.Bootstrap.TDSUser.UnregisterFriendshipNotification </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="acfb1d5bf2b91e6d30473555293671386"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acfb1d5bf2b91e6d30473555293671386">&#9670;&nbsp;</a></span>UpdatePassword()</h2>
 
@@ -1156,7 +1420,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>TapSDK/TapBootstrapSDK/<a class="el" href="_t_d_s_user_8cs.html">TDSUser.cs</a></li>
+<li>TapSDK/TapBootstrapSDK/TapBootstrapSDK/<a class="el" href="_t_d_s_user_8cs.html">TDSUser.cs</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

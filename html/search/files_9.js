@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['safedictionary_2ecs_460',['SafeDictionary.cs',['../_safe_dictionary_8cs.html',1,'']]]
+  ['platform_2ecs_537',['Platform.cs',['../_platform_8cs.html',1,'']]],
+  ['profile_2ecs_538',['Profile.cs',['../_profile_8cs.html',1,'']]]
 ];

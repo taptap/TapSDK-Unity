@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['platform_390',['Platform',['../class_tap_tap_1_1_common_1_1_platform.html',1,'TapTap::Common']]]
+  ['json_455',['Json',['../class_tap_tap_1_1_common_1_1_json.html',1,'TapTap::Common']]]
 ];
