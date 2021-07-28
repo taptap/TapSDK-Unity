@@ -17,3 +17,6 @@
 	path = taplicense
 	url = git@github.com:TapTap/TapLicense-Unity.git
 
+[submodule "tapachievement"]
+	path = tapachievement
+	url = git@github.com:taptap/TapAchievement-Unity.git
