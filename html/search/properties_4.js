@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['username_864',['Username',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#a175f3210d001f23e62c2baf55dcdb93a',1,'TapTap::Bootstrap::TDSUser']]]
+  ['name_950',['Name',['../class_tap_tap_1_1_bootstrap_1_1_tap_game_save.html#a726b9cb79d4d8bc22247aa2e74762eed',1,'TapTap::Bootstrap::TapGameSave']]]
 ];

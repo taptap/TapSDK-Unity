@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['email_856',['Email',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#ab70b3dac794c73e7d718b405db7e81a1',1,'TapTap::Bootstrap::TDSUser']]],
-  ['emailverified_857',['EmailVerified',['../class_tap_tap_1_1_bootstrap_1_1_t_d_s_user.html#ac5c088bde46428602177744d5a439c67',1,'TapTap::Bootstrap::TDSUser']]]
+  ['cover_941',['Cover',['../class_tap_tap_1_1_bootstrap_1_1_tap_game_save.html#aeef14eceee60ae83f394e4a331e92bbd',1,'TapTap::Bootstrap::TapGameSave']]],
+  ['coverfilepath_942',['CoverFilePath',['../class_tap_tap_1_1_bootstrap_1_1_tap_game_save.html#a0b67f578177738a4a8df7bf89ff56be0',1,'TapTap::Bootstrap::TapGameSave']]]
 ];
