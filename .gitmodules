@@ -20,3 +20,9 @@
 [submodule "tapachievement"]
 	path = tapachievement
 	url = git@github.com:taptap/TapAchievement-Unity.git
+[submodule "tapsupport"]
+	path = tapsupport
+	url = git@github.com:taptap/TapSupport-Unity.git
+[submodule "tapfriends"]
+	path = tapfriends
+	url = git@github.com:taptap/TapFriends-Unity.git
