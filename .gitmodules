@@ -26,3 +26,6 @@
 [submodule "tapfriends"]
 	path = tapfriends
 	url = git@github.com:taptap/TapFriends-Unity.git
+[submodule "taprtc"]
+	path = taprtc
+	url = git@github.com:taptap/TapRTC-Unity.git
