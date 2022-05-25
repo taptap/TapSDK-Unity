@@ -29,3 +29,6 @@
 [submodule "taprtc"]
 	path = taprtc
 	url = git@github.com:taptap/TapRTC-Unity.git
+[submodule "tappayment"]
+	path = tappayment
+	url = git@github.com:taptap/TapPayment-Unity.git
