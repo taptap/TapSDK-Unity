@@ -41,3 +41,12 @@
 [submodule "tapthemis"]
 	path = themis
 	url = git@github.com:taptap/TapThemis-Unity.git	
+[submodule "billboard"]
+	path = billboard
+	url = git@github.com:taptap/TapBillboard-Unity.git
+[submodule "antiaddiction"]
+	path = antiaddiction
+	url = git@github.com:taptap/TapAntiAddiction-Unity.git
+[submodule "themis"]
+	path = themis
+	url = git@github.com:taptap/TapThemis-Unity.git
